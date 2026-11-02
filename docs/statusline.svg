@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="154" font-family="SF Mono, Menlo, Consolas, monospace" font-size="16">
+<rect width="100%" height="100%" rx="10" fill="#1e1e1e"/>
+<text x="20" y="40" xml:space="preserve"><tspan fill="#e6e6e6" font-weight="bold">Opus 5.5</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#8a8a8a">low</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#5fd75f">○ 6%</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#5fd75f">⧗ 58m</tspan></text>
+<text x="20" y="70" xml:space="preserve"><tspan fill="#e6e6e6" font-weight="bold">Sonnet 5.5</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#c678dd">high</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#e5c07b">◑ 54%</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#ff8700">⧗ 32m</tspan></text>
+<text x="20" y="100" xml:space="preserve"><tspan fill="#e6e6e6" font-weight="bold">Opus 5.5</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#61afef">medium</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#e5c07b">◕ 71%</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#ff5f5f">⧗ 2m</tspan></text>
+<text x="20" y="130" xml:space="preserve"><tspan fill="#e6e6e6" font-weight="bold">Opus 5.5</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#ff5f5f">max</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#ff5f5f">● 91%</tspan><tspan fill="#6b6b6b"> · </tspan><tspan fill="#ff5f5f">⧗ cold</tspan></text>
+</svg>
