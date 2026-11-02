@@ -8,12 +8,12 @@ A compact status line for [Claude Code](https://code.claude.com) that shows the 
 Opus 5.5 · low · ○ 6% · ⧗ 58m
 ```
 
-| Part | Source | Colors |
-|---|---|---|
-| Model | `model.display_name` | bold |
-| Effort | `effort.level` | gray low, blue medium, magenta high, red max |
-| Context ○ ◔ ◑ ◕ ● | `context_window.used_percentage` | green < 50%, yellow < 80%, red after |
-| Cache ⧗ | `prompt_cache.expires_at` and `ttl` | green, orange, then red for each third of the TTL; `cold` once expired |
+| Part | Symbol | Source | Colors |
+|---|---|---|---|
+| Model | | `model.display_name` | bold |
+| Effort | | `effort.level` | gray low, blue medium, magenta high, red max |
+| Context | `○ ◔ ◑ ◕ ●` | `context_window.used_percentage` | green < 50%, yellow < 80%, red after |
+| Cache | `⧗` | `prompt_cache.expires_at` and `ttl` | green, orange, then red for each third of the TTL; `cold` once expired |
 
 Values not yet reported (before the first reply, or right after `/compact`) show as `—`.
 
